@@ -1,10 +1,10 @@
 package com.nixsolutions.test2;
 
 /**
- * Hello world!
+ * Hello world!11
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
