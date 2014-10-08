@@ -1,7 +1,7 @@
 package com.nixsolutions.test2;
 /**
  * 
- * @author nizhnik
+ * @author nizhnik 3
  *
  */
 public class Test {
