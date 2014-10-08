@@ -1,7 +1,7 @@
 package com.nixsolutions.test2;
 
 /**
- * Hello world!11
+ * Hello world!
  *
  */
 public class App
